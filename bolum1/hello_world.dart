@@ -1,10 +1,10 @@
 void main(List<String> args) {
-  print("emre altunbilek");
-  print('emre altunbilek');
+  print("ismet");
+  print('ismet');
   print('3 + 5');
   print(3 + 5);
-  print("emre'nin dersleri");
-  print("emre" + " altunbilek");
+  print("ismet'nin dersleri");
+  print("ismet" + " deneme");
 
   //burada ilk defa dart kodu yazıyorum
   /*

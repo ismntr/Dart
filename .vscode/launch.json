@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "${file}"
+            "program": "bolum1/hello_world.dart"
         }
     ]
 }
