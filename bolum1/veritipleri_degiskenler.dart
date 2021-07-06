@@ -25,7 +25,7 @@ void main(List<String> args) {
   print(yas);
   print(ortlama);
 
-  String ad = "hasan";
+  String ad = "ismet";
 
   print(ad);
   print(ad + "nin sevdiği renkler");
