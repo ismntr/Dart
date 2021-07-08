@@ -27,7 +27,7 @@ main(List<String> args) {
 
   double en = 10;
   double boy = 12;
-  print("Eni ${en.toInt()} ve boyu ${boy.toInt()} olan üçgenin alanı " + (en*boy/2).toInt().toString() + "'dir."); 555555555555555555555555555555555555555555555555555
+  print("Eni ${en.toInt()} ve boyu ${boy.toInt()} olan üçgenin alanı " + (en*boy/2).toInt().toString() + "'dir."); 
   print("Eni ${en.toInt()} ve boyu ${boy.toInt()} olan üçgenin alanı ${(en*boy/2).toInt()}'dir.");
   print(15.9.toInt());
 

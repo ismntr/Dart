@@ -6,7 +6,25 @@
 örnek birinci kenarı 3, ikinci kenarı 4, üçüncü kenarı 5 olan üçgenin çevresi 12dir
 */
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Cevaplar
+/* 
 main(List<String> args) {
   String ad = "emre";
   var soyad = "altunbilek";
@@ -24,3 +42,4 @@ main(List<String> args) {
   print(
       "Birinci kenarı $birinciKenar, ikinci kenarı $ikinciKenar, üçüncü kenarı $ucuncuKenar olan üçgenin çevresi ${(birinciKenar + ikinciKenar + ucuncuKenar)}'dır");
 }
+ */
