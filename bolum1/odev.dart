@@ -6,7 +6,20 @@
 örnek birinci kenarı 3, ikinci kenarı 4, üçüncü kenarı 5 olan üçgenin çevresi 12dir
 */
 
+main(List<String> args) {
+  String ad =  "ismet";
+  String soyAd = "deneme";
+  int yas = 24;
 
+  print("Benim adim $ad $soyAd, yaşım $yas ve tüm isimlerimdeki karakter sayısı: ${ad.length+soyAd.length} şeklindedir.");
+
+  int kenar1,kenar2,kenar3;
+  kenar1 = 2;
+  kenar2 = 6;
+  kenar3 = 8;
+
+  print("Üçgenin birinci kenarı $kenar1, ikinci kenarı $kenar2, üçüncü kenarı $kenar3 ise çevresi ${kenar1+kenar2+kenar3}'dır.");
+}
 
 
 
