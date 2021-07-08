@@ -6,15 +6,12 @@ void main(List<String> args) {
   print("ismet'in dersleri");
   print("ismet" + " deneme");
 
-  //burada ilk defa dart kodu yazıyorum
+  // yorum satırı yazma
   /*
-  asdasdasd
-  asd
-  asd
-  asd
-  as
-  da
-  sd
-  as
+ birden 
+ fazla satırı 
+ yorum 
+ satırı 
+ yazma
    */
 }
