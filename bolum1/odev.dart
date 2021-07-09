@@ -23,19 +23,6 @@ main(List<String> args) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 //Cevaplar
 /* 
 main(List<String> args) {

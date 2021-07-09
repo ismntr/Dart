@@ -22,7 +22,23 @@ if(saglanması gereken şart){
 bu yapıda herhangi bir if blogunda kod calıstırılırsa alttaki şartlara bakılmaz ve program;
  son else kısmından sonra gelen süslü parantezlerden sonra çalışmaya devam eder
  */
+main(List<String> args) {
+  int sayi1 = 11;
+  int sayi2 = 7;
 
+  if (sayi1>sayi2){
+    print("$sayi1, $sayi2'den büyüktür.");
+  }
+  else if ( sayi2>sayi1){
+    print("$sayi2, $sayi1'den büyüktür. ");
+  }
+  else{
+    print("Eşittir");
+  };
+}
+
+
+/* 
 main(List<String> args) {
   int sayi1 = 12;
   num sayi2 = 11;
@@ -64,3 +80,4 @@ main(List<String> args) {
     print("Hatalı veya eksik giriş");
   }
 }
+ */
