@@ -35,6 +35,40 @@ main(List<String> args) {
   else{
     print("Eşittir");
   };
+  print("******************************************************************");
+
+  int not = 70;
+
+  if(not>=90){
+    print("$not AA'dır.");
+  }else if(not>80){
+    print("$not BA'dır.");
+  }else if(not>70){
+    print("$not BB'dir.");
+  }else if(not>60){
+    print("$not CB'dır.");
+  }else if(not>50){
+    print("$not CC'dir.");
+      }else if(not>40){
+    print("$not DC'dır.");
+  }else if(not>30){
+    print("$not DD'dir.");
+      }else if(not>20){
+    print("$not FD'dır.");
+  }else if(not<21){
+    print("$not FF'dir.");
+  }else(){
+    print("Hata");
+  };
+
+
+
+
+
+
+
+
+
 }
 
 
