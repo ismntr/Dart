@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "bolum2/if_else_kullanimi.dart"
+            "program": "bolum2/ternary_kisa_if_kullanimi.dart"
         }
     ]
 }
