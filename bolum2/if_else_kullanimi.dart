@@ -57,7 +57,7 @@ main(List<String> args) {
     print("$not FD'dır.");
   }else if(not>=0&&not<20){
     print("$not FF'dir.");
-  }else(){
+  }else{
     print("Hata");
   };
 
