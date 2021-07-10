@@ -27,10 +27,11 @@ burda expression1 eğer null değilse kullanılır, eğer null ise expression2 k
   kSayi = sayi1 < sayi2 ? sayi1 : sayi2;
     print("küçük sayi: $kSayi ");
 
-
-
-
-
+  String? ad = null;
+  String? soyAd = null;
+  String? mesaj;
+  mesaj = ad ?? soyAd;
+  print("Merhaba $mesaj");
 
   }
 
