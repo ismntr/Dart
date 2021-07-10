@@ -28,7 +28,7 @@ burda expression1 eğer null değilse kullanılır, eğer null ise expression2 k
     print("küçük sayi: $kSayi ");
 
   String? ad = null;
-  String? soyAd = null;
+  String? soyAd = "deneme";
   String? mesaj;
   mesaj = ad ?? soyAd;
   print("Merhaba $mesaj");
