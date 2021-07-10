@@ -9,6 +9,47 @@ burda expression1 eğer null değilse kullanılır, eğer null ise expression2 k
 
  */
 
+
+  main(List<String> args) {
+    int sayi1 = 32;
+    var sayi2 = 16;
+    int kSayi;
+
+   /*  if(sayi1<sayi2){
+      kSayi = sayi1;
+    }
+    else{
+      kSayi = sayi2;
+    } */
+
+   // sayi1 < sayi2 ? kSayi = sayi1 : kSayi =sayi2;
+
+  kSayi = sayi1 < sayi2 ? sayi1 : sayi2;
+    print("küçük sayi: $kSayi ");
+
+
+
+
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
 main(List<String> args) {
   int sayi1 = 7;
   var sayi2 = 9;
@@ -32,3 +73,4 @@ main(List<String> args) {
   mesaj = ad ?? soyad;
   print("Merhaba $mesaj");
 }
+ */
