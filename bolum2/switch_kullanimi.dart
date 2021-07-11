@@ -4,7 +4,7 @@
  * 
  *switch kullanırken sadece int ve string veri türleri kullanılır, boolean veya double kullanılmaz.
 */
-main(List<String> args) {
+/* main(List<String> args) {
   String notDegeri = 'SDFSDF';
 
   switch (notDegeri) {
@@ -82,3 +82,4 @@ main(List<String> args) {
 
 
 }
+ */
