@@ -35,21 +35,6 @@ burda expression1 eğer null değilse kullanılır, eğer null ise expression2 k
 
   }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* 
 main(List<String> args) {
   int sayi1 = 7;
