@@ -62,8 +62,11 @@ main(List<String> args) {
     break;
 
     default :
-    print("Hata");
-    ;
+    {
+      print("Hata");
+    }
+    
+    
 
   }
 
