@@ -65,12 +65,36 @@ main(List<String> args) {
     {
       print("Hata");
     }
-    
-    
-
   }
 
+  int sayi = 35;
+  int bolum = (sayi / 10).toInt();
 
+  switch(bolum){
+
+    case 3:
+    print("Sayi 30'dan büyüktür.");
+    break;
+
+    case 2:
+    print("Sayi 20'dan büyüktür.");
+    break;
+
+    case 1:
+    print("Sayi 10'dan büyüktür.");
+    break;
+
+    case 0:
+    print("Sayi 10'dan küçüktür.");
+    break;
+
+    default :{
+      print("Hata");
+    }
+
+
+
+  }
 }
 
 
